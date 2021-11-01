@@ -6,7 +6,7 @@
  */
 
 namespace App\Service;
-use App\Component\Singleton;
+use HP\Component\Singleton;
 
 /**
  * 测试1
